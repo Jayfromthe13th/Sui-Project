@@ -1,4 +1,4 @@
-# Sui Move Examples for WBA Program
+# 💧Sui Move Examples for WBA Program
 
 ## Overview
 
