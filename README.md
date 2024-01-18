@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a series of reworked examples from the "Sui Move Q1 Cohort Prerequisites". These examples demonstrate my understanding and application of the Sui Move language and concepts, tailored to reflect more realistic use cases that are of interest to me.
+This repository contains a series of reworked examples from the "Sui Move Q1 Cohort Prerequisites". These examples demonstrate my understanding and application of the Sui Move language and concepts, tailored to reflect a more simple realistic use cases.
 
 The original exercises are based on the resources provided by Sui, including their extensive documentation and the "Sui By Example" resource. Each example has been adjusted in function names, object structures, and variable names to present a practical approach to blockchain development using Sui Move.
 
