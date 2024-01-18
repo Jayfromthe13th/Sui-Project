@@ -17,9 +17,6 @@ The original exercises are based on the resources provided by Sui, including the
 - **Object Display**: Custom object display properties tailored for specific use cases.
 - **Capability**: Demonstration of capability-based security and functionality.
 
-### Real-World Use Cases
-
-The modifications in these examples aim to reflect real-world scenarios, enhancing the practical understanding of Sui Move. Each example has been carefully crafted to demonstrate how Sui Move concepts can be applied in real blockchain applications.
 
 ### Resources
 
